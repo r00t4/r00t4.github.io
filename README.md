@@ -1,6 +1,7 @@
 # r00t4.github.io
 
-<a href='https://t.me/tubir4'> Telegram </a>
+Telegram:
+<a href='https://t.me/tubir4'>@tubir4</a>
 
 
 <h1>Hello world!</h1>
